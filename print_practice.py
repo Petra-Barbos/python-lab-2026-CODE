@@ -12,9 +12,8 @@ print("Hello, world!")
 # === C. AI EDITS THIS PRINT ===
 # Selected model:
 # Target output: Copilot edited this file.
-print()
-
+print("Copilot edited this file.")
 
 # === D. INLINE SUGGESTION ===
 # Print the sentence: Hello from an inline suggestion.
-# Start typing your print statement here.
+print("Hello from an inline suggestion.")
