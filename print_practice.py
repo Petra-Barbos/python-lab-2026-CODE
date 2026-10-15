@@ -5,14 +5,14 @@ print("This is my first program.")
 
 
 # === B. PRINT FROM CHAT ===
-# Selected model:
-# Paste one reviewed print statement here.
+# Selected model: Auto
+print("Hello, world!") 
 
 
 # === C. AI EDITS THIS PRINT ===
 # Selected model:
 # Target output: Copilot edited this file.
-# Prepare an empty print here for Copilot to complete.
+print()
 
 
 # === D. INLINE SUGGESTION ===
