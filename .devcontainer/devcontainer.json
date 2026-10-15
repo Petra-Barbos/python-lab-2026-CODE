@@ -1,0 +1,12 @@
+{
+  "name": "Python beginner labs",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "files.autoSave": "off"
+      }
+    }
+  }
+}
