@@ -1,5 +1,7 @@
 # === A. MY PRINTS ===
-# Write your three print statements here.
+print("Hello, Python!")
+print("I am learning to use Codespaces")
+print("This is my first program.") 
 
 
 # === B. PRINT FROM CHAT ===
